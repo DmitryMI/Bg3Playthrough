@@ -10,11 +10,11 @@ This document lists all quests and locations in chronological order of completio
 
 1. [Fighter - Eldritch Knight](./Party/Fighter.md)
 
-2. [Ranger - Hunter]()
+2. Ranger - Hunter
 
 3. Cleric - Light Domain
 
-4. Bard - College of Lore
+4. [Bard - College of Lore](./Party/Bard.md)
 
 ## Prologue
 

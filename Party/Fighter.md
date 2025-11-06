@@ -19,7 +19,7 @@ ADV for Charmed Saving Throws.
 Cannot be put to sleep.
 
 ### Starting Cantrip
-+1 Cantrip from Wizard spell lit (use INT). 
++1 Cantrip from Wizard spell list (use INT). 
 
 **Eldritch Knight gains the same Cantrips on Level 3.**
 
