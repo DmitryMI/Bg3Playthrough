@@ -6,6 +6,16 @@ This document lists all quests and locations in chronological order of completio
 
 1. Enable north-facing map
 
+## Builds
+
+1. [Fighter - Eldritch Knight](./Party/Fighter.md)
+
+2. [Ranger - Hunter]()
+
+3. Cleric - Light Domain
+
+4. Bard - College of Lore
+
 ## Prologue
 
 > Expected Results:
