@@ -10,7 +10,7 @@ This document lists all quests and locations in chronological order of completio
 
 1. [Fighter - Eldritch Knight](./Party/Fighter.md)
 
-2. Ranger - Hunter
+2. [Ranger - Beat Master](./Party/Ranger.md)
 
 3. Cleric - Light Domain
 

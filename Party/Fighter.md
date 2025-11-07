@@ -45,7 +45,7 @@ Background: Soldier
 
 - 10 CON
 
-- 16 INT (needed later, on early levels can be invested somewhere else)
+- 15+1 INT (needed later, on early levels can be invested somewhere else)
 
 - 8 WIS
 
@@ -57,9 +57,9 @@ Background: Soldier
 
 - 8 STR (main)
 - 15+1 DEX
-- 14/16 CON
-- 16 INT
-- 12 WIS
+- 14 CON
+- 15+2 INT
+- 10 WIS
 - 8 CHA
 
 ### Skills

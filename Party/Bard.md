@@ -141,7 +141,7 @@ Feature: [Countercharm](https://bg3.wiki/wiki/Countercharm)
 Pick as many as allowed from priority list:
 
 - [Hypnotic Pattern](https://bg3.wiki/wiki/Hypnotic_Pattern) - mass disable
-- [Hunger of Hadar](https://bg3.wiki/wiki/Hunger_of_Hadar) - mass damage and blindness.
+- [Hunger of Hadar](https://bg3.wiki/wiki/Hunger_of_Hadar) - mass damage and blindness. Combine with Ranger's [Plant Growth](https://bg3.wiki/wiki/Plant_Growth).
 - [Counterspell](https://bg3.wiki/wiki/Counterspell) - stop enemy's spell with a reaction.
 - [Sleet Storm](https://bg3.wiki/wiki/Sleet_Storm) - mass slowdown. *Synergizes with Hunger of Hadar, but cannot be cast together with it due to concentration.*
 
