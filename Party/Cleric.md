@@ -38,7 +38,7 @@ Background: Acolyte.
 Priority list:
 
 - [Sacred Flame](https://bg3.wiki/wiki/Sacred_Flame) - ranged damage spell. Scales with level.
-- [Produce Flame](https://bg3.wiki/wiki/Produce_Flame) - deals low, but guaranteed damage when thrown. Scales with level.
+- [Produce Flame](https://bg3.wiki/wiki/Produce_Flame) - deals low damage when thrown. Uses Attack Roll. Scales with level.
 - [Guidance](https://bg3.wiki/wiki/Guidance) - target gets +1d4 bonus to Ability Checks.
 
 ### Spells (non-selectable):
