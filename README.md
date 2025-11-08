@@ -12,7 +12,7 @@ This document lists all quests and locations in chronological order of completio
 
 2. [Ranger - Beat Master](./Party/Ranger.md)
 
-3. Cleric - Light Domain
+3. [Cleric - Light Domain](./Party/Cleric.md)
 
 4. [Bard - College of Lore](./Party/Bard.md)
 

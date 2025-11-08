@@ -35,10 +35,7 @@ Choose one from:
 Prick from priority list:
 
 - Animal Handling - mandatory, nobody else in the party has it
-- Insight
-- Medicine
-- Perception
-- Survival
+- Stealth
 
 ## Level 2
 

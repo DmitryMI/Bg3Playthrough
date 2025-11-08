@@ -49,9 +49,10 @@ Pick 4 from priority list:
 
 - [Sleep](https://bg3.wiki/wiki/Sleep)
 - [Dissonant Whispers​](https://bg3.wiki/wiki/Dissonant_Whispers)
-- [Faerie Fire](https://bg3.wiki/wiki/Faerie_Fire)
 - [Healing Word​](https://bg3.wiki/wiki/Healing_Word) - if nobody else has it
+- [Heroism](https://bg3.wiki/wiki/Heroism) - makes target immune to Frightened and gives 5 temp. hit points.
 - [Longstrider](https://bg3.wiki/wiki/Longstrider) - if nobody else has it
+- [Faerie Fire](https://bg3.wiki/wiki/Faerie_Fire) - *Cleric will unavoidably have it on Level 1.*
 
 ### Starting instrument
 
@@ -130,7 +131,7 @@ Pick 2 out of priority list:
 ### Spells
 
 - [Glyph of Warding](https://bg3.wiki/wiki/Glyph_of_Warding) - can be used as [Glyph of Warding: Sleep](https://bg3.wiki/wiki/Glyph_of_Warding:_Sleep), mass-disable spell.
-- Replace Faerie Fire with [Plant Growth](https://bg3.wiki/wiki/Plant_Growth) - mass slowdown.
+- Replace Faerie Fire, Longstrider or Heroism with [Plant Growth](https://bg3.wiki/wiki/Plant_Growth) - mass slowdown.
 
 ## Level 6
 
@@ -161,7 +162,7 @@ Feature: [Dark One's Blessing](https://bg3.wiki/wiki/Dark_One%27s_Blessing) - ga
 ### Spells
 
 - [Hex](https://bg3.wiki/wiki/Hex) - small single-target attack damage boost and selected ability disadvantage.
-- [Command](https://bg3.wiki/wiki/Command) - control spell
+- [Command](https://bg3.wiki/wiki/Command) - control spell, pick if Cleric does not have it.
 
 ## Level 8
 
@@ -243,8 +244,8 @@ Pick any:
 
 - [Cone of Cold](https://bg3.wiki/wiki/Cone_of_Cold) - good AoE damage, best used on wet surfaces.
 - [Ice Storm​](https://bg3.wiki/wiki/Ice_Storm) - good AoE damage with greater range but smalled area.
-- [Wall of Fire](https://bg3.wiki/wiki/Wall_of_Fire) - good damage/control spell
 - [Lightning Bolt](https://bg3.wiki/wiki/Lightning_Bolt) - mass-damage, best used on wet targets.
+- [Wall of Fire](https://bg3.wiki/wiki/Wall_of_Fire) - good damage/control spell. *Clerick will unavoidably get it on Level 8.*
 
 ## Equipment
 
