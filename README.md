@@ -4,7 +4,9 @@ This document lists all quests and locations in chronological order of completio
 
 ## All players todo list
 
-1. Enable north-facing map
+- Enable north-facing map
+- (optional) Disable automatic addition of scrolls and potions to the hotkey bar. Manage it manually.
+- Reshuffle proficiencies according to [this priority list](https://www.reddit.com/r/BaldursGate3/comments/qw191a/comment/hkzzy2e/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
 
 ## Builds
 

@@ -6,7 +6,7 @@
 
 ## Race
 
->If played as Astarion, race and starting features are unchangeable.
+> If played as Astarion, race and starting features are unchangeable.
 
 ### [High Elf](https://bg3.wiki/wiki/Elf)
 
@@ -19,7 +19,6 @@
 - ADV for Charmed Saving Throws.
 
 - Cannot be put to sleep.
-
 
 ### Starting Cantrip
 +1 Cantrip from Wizard spell list (use INT). 
