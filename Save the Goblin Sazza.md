@@ -2,7 +2,9 @@
 
 ## Reference
 
-[Save the Goblin Sazza](https://www.ign.com/wikis/baldurs-gate-3/Save_the_Goblin_Sazza)
+[Save the Goblin Sazza (wiki)](https://bg3.wiki/wiki/Save_the_Goblin_Sazza)
+
+[Save the Goblin Sazza (IGN)](https://www.ign.com/wikis/baldurs-gate-3/Save_the_Goblin_Sazza)
 
 ## Map
 
@@ -24,9 +26,9 @@ None.
 
 3. Accept her quest.
 
-4. Pick cage lock (**don't get caught!**)
+4. Pick cage lock, smash it or use [Iron Cell Key](https://bg3.wiki/wiki/Iron_Cell_Key) (**don't get caught!**) - 15 XP
 
-5. Follow Sazza, kill goblins in the cave
+5. Stealthly escape the Grove by jumping the rocks behind the cage. Follow Sazza, kill goblins in the cave
 
 6. Decide whether or not to save the unconscious man.
 

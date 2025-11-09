@@ -52,13 +52,13 @@ This document lists all quests and locations in chronological order of completio
 
 - ~~[Save the Refugees (+ Save Arabella)](./Save%20the%20Refugees.md)~~
 
-- [Get Help from Healer Nettie](https://bg3.wiki/wiki/Get_Help_from_Healer_Nettie) - not sure how to start the quest.
+- [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin) - to start the quest ask [Nettie](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.341992922076912&y=0.7377183508316847&zoom=15) about Halsin (**before** you kill her of course).
 
-- [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin) - ask [Nettie](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.341992922076912&y=0.7377183508316847&zoom=15) about Halsin (**before** you kill her of course).
+- [Get Help from Healer Nettie](https://bg3.wiki/wiki/Get_Help_from_Healer_Nettie) - option 1: be honest, tell about the tadpole; refuse to commit suicide; **kill Nettie**. Option 2 (the hard one): let the Fighter speek and pass one DEX and one History or Intimidation check; refuse to commit suicide; **kill Nettie**. Speak with the Dead Nettie for some info.
 
-- Speak to [Rikka](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5023885636004763&y=0.6846670592263564&zoom=14.322953162515844) to trigger [Find Doni](https://bg3.wiki/wiki/Find_Doni).
+- Speak to [Rikka](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5023885636004763&y=0.6846670592263564&zoom=14.322953162515844) to trigger [Find Doni](https://bg3.wiki/wiki/Find_Doni). *The quest has some strange prerequisite that I don't understand. Reward is just 35 XP so we can just skip it.*
 
-- Speak with [Barth](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5261740319532464&y=0.7299026995687257&zoom=14.322953162515844) to start [Return the Locket](https://bg3.wiki/wiki/Return_the_Locket).
+- Speak with [Barth](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5261740319532464&y=0.7299026995687257&zoom=14.322953162515844) to start [Return the Locket](https://bg3.wiki/wiki/Return_the_Locket). After the Barth starts chasing Meli, talk to either of them ASAP. Option 1 (Bard or Tiefling): forbid Barth hitting Meli for some Approvals; let Meli escape; steal the locket from Tiefling Hideout and return to Barth for 50 GP. Option 2 (Bard or Tiefling): side with Barth and get nothing.
 
 - [Save the Goblin Sazza](./Save%20the%20Goblin%20Sazza.md)
 
