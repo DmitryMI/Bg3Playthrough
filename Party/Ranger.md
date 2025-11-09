@@ -151,29 +151,29 @@ Else, pick one level of War Domain Cleric or Sorcerer. Cleric option gives you a
 
 #### Weapon
 
-- [Phalar Aluve](https://bg3.wiki/wiki/Phalar_Aluve) - longsword. You are not forced to fight with it, just keep it equiped for it's ability: [Phalar Aluve: Melody](https://bg3.wiki/wiki/Phalar_Aluve:_Melody).
-- [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness) - shotbow that gives +1 initiative.
+- [Phalar Aluve](https://bg3.wiki/wiki/Phalar_Aluve) - longsword. You are not forced to fight with it, just keep it equiped for it's ability: [Phalar Aluve: Melody](https://bg3.wiki/wiki/Phalar_Aluve:_Melody). *[Underdark X: 116 Y: -192: Embedded inside a rock](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8407132787008038&y=0.7192274161997574&zoom=13.338622309800115)*.
+- [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness) - shotbow that gives +1 initiative. *[Shattered Sanctum X: 272 Y: -31: Sold by Roah Moonglow](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7751598473307411&y=0.7282751371080423&zoom=15)*
 - Equip two Hand Crossbow +1 to attack with a bonus action.
-- [Titanstring Bow](https://bg3.wiki/wiki/Titanstring_Bow) - one of the best bows in terms of damage. It's damage is boosted by STR, so invest in STR to make it effective.
-- [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee) - can [Frighten](https://bg3.wiki/wiki/Frightened_(Condition)) enemies on hit.
-- [Harold](https://bg3.wiki/wiki/Harold) - applies [Bane](https://bg3.wiki/wiki/Bane_(Condition)).
+- [Titanstring Bow](https://bg3.wiki/wiki/Titanstring_Bow) - one of the best bows in terms of damage. It's damage is boosted by STR, so invest in STR to make it effective. *[Zhentarim Basement X: 295 Y: -250: Sold by Brem after completing the quest Find the Missing Shipment](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.6335217870923202&y=0.8215336745559227&zoom=14.91966761528892)*.
+- [Bow of the Banshee](https://bg3.wiki/wiki/Bow_of_the_Banshee) - can [Frighten](https://bg3.wiki/wiki/Frightened_(Condition)) enemies on hit. *[Grymforge X: -632 Y: 326: Sold by Corsair Greymon Corsair Greymon](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-1.0089263280160878&y=0.7044766778779206&zoom=13.97730809090935)*.
+- [Harold](https://bg3.wiki/wiki/Harold) - applies [Bane](https://bg3.wiki/wiki/Bane_(Condition)). *[Zhentarim Hideout X: 277 Y: -247: Reward for bringing the chest to Zarys Zarys as part of Find the Missing Shipment⁠Find the Missing Shipment](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.6430046908762108&y=0.8217491729366344&zoom=14.91966761528892)*
 
 #### Head
 
-- [Haste Helm](https://bg3.wiki/wiki/Haste_Helm) - increases movement speed. 
-- [Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy) - greate damage-dealing item, but much better suited for our Fighter build.
+- [Haste Helm](https://bg3.wiki/wiki/Haste_Helm) - increases movement speed. *[Blighted Village X: 29 Y: 405: Inside the Moss-Covered Chest](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5848320718914408&y=0.6691300156316231&zoom=13.322953162515844)*
+- [Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy) - greate damage-dealing item, but much better suited for our Fighter build. *[Crèche Y'llek X: 1359 Y: -831: Worn by Gish Far'aag](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.5119161628107634&y=0.8398851286899003&zoom=15)*
 
 #### Armor
 
-- [Scale Mail +1](https://bg3.wiki/wiki/Scale_Mail_%2B1)
-- [Chain Mail +1](https://bg3.wiki/wiki/Chain_Mail_%2B1) - if you have proficiency with heavy armor.
+- [Scale Mail +1](https://bg3.wiki/wiki/Scale_Mail_%2B1) - *Sold by traders using the levelled magic armour table if the player is between levels 4 and 6*.
+- [Chain Mail +1](https://bg3.wiki/wiki/Chain_Mail_%2B1) - if you have proficiency with heavy armor. *Sold by traders using the levelled magic armour table if the player is between levels 4 and 6*.
 
 #### Gloves
 
-- **[Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_Dexterity) - allows to respec and reallocate all your DEX somewhere else.**
-- [Gloves of Archery](https://bg3.wiki/wiki/Gloves_of_Archery) - +2 damage with ranged attacks.
-- [Gloves of Baneful Striking](https://bg3.wiki/wiki/Gloves_of_Baneful_Striking) - buffs your spells.
-- [Gloves of Power](https://bg3.wiki/wiki/Gloves_of_Power) - buffs spells, but less reliable
+- **[Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_Dexterity) - allows to respec and reallocate all your DEX somewhere else.** *[Crèche Y'llek X: 1380 Y: -798: Sold by A'jak'nir](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.4975876567955311&y=0.8439821183072809&zoom=14.36506623208646)*.
+- [Gloves of Archery](https://bg3.wiki/wiki/Gloves_of_Archery) - +2 damage with ranged attacks. [Goblin Camp X: -99 Y: 424: Sold by Grat the Trader](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.6414345065319367&y=0.681140591979414&zoom=14.711995404013942).
+- [Gloves of Baneful Striking](https://bg3.wiki/wiki/Gloves_of_Baneful_Striking) - buffs your spells. *[Rosymorn Monastery Trail X: -43 Y: -129: Sold by Lady Esther, north-east of the Trielta Crags waypoint](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.5598226646921489&y=0.6872583153028842&zoom=15)*.
+- [Gloves of Power](https://bg3.wiki/wiki/Gloves_of_Power) - buffs spells, but less reliable. *[Emerald Grove X: 208 Y: 427: Carried by Za'krug in front of the Druid Grove](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5091385598532554&y=0.6768247322322907&zoom=13.034948566529776)*.
 
 #### Boots - same as Fighter
 
