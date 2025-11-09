@@ -261,7 +261,7 @@ Pick any:
 
 #### Head
 
-- [The Shadespell Circlet](https://bg3.wiki/wiki/The_Shadespell_Circlet) - +1 Spell Save DC if obscured. [Myconid Colony X: 112 Y: -88: Sold by Omeluum after completing Help Omeluum Investigate the Parasite](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8447434095230051&y=0.7628110382305238&zoom=15)*
+- [The Shadespell Circlet](https://bg3.wiki/wiki/The_Shadespell_Circlet) - +1 Spell Save DC if obscured. *[Myconid Colony X: 112 Y: -88: Sold by Omeluum after completing Help Omeluum Investigate the Parasite](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8447434095230051&y=0.7628110382305238&zoom=15)*
 - [Cap of Curing](https://bg3.wiki/wiki/Cap_of_Curing) - buffs Bardic Inspiration by healing affected allies. *[Sacred Pool X: 289 Y: 488: In a locked gilded chest behind a pillar near to where Alfira is composing her song in the Emerald Grove](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.4746548658909546&y=0.7074217854478633&zoom=14.472984898170404)*
 
 #### Armor
