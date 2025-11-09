@@ -49,24 +49,28 @@ This document lists all quests and locations in chronological order of completio
 > Expected Results:
 >
 > Joining: Wyll, Karlach
->
-> Major items: TODO
 
-- [Save the Refugees (+ Save Arabella)](./Save%20the%20Refugees.md)
+- ~~[Save the Refugees (+ Save Arabella)](./Save%20the%20Refugees.md)~~
 
-- Speak to Rikka to trigger [Find Doni](https://bg3.wiki/wiki/Find_Doni).
+- [Get Help from Healer Nettie](https://bg3.wiki/wiki/Get_Help_from_Healer_Nettie) - not sure how to start the quest.
+
+- [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin) - ask [Nettie](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.341992922076912&y=0.7377183508316847&zoom=15) about Halsin (**before** you kill her of course).
+
+- Speak to [Rikka](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5023885636004763&y=0.6846670592263564&zoom=14.322953162515844) to trigger [Find Doni](https://bg3.wiki/wiki/Find_Doni).
+
+- Speak with [Barth](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5261740319532464&y=0.7299026995687257&zoom=14.322953162515844) to start [Return the Locket](https://bg3.wiki/wiki/Return_the_Locket).
 
 - [Save the Goblin Sazza](./Save%20the%20Goblin%20Sazza.md)
 
-- [Investigate the Beach](./Investigate%20the%20Beach.md)
+- ~~[Investigate the Beach](./Investigate%20the%20Beach.md)~~
 
-- Trade with Mattis to trigger *Find Your Belongings* quest. Speak to Mol in Secret Hideout to get you things back, if you failed all skill checks.
+- ~~Trade with Mattis to trigger *Find Your Belongings* quest. Speak to Mol in Secret Hideout to get you things back, if you failed all skill checks.~~
 
-- Talk to Wyll to initiate [The Blade of Frontiers](https://www.ign.com/wikis/baldurs-gate-3/Wyll:_The_Blade_of_Frontiers)
+- ~~Talk to Wyll to initiate [The Blade of Frontiers](https://www.ign.com/wikis/baldurs-gate-3/Wyll:_The_Blade_of_Frontiers)~~
 
-- Find Karlach initiate The Hellion's Heart quest.
+- Find Karlach to initiate The Hellion's Heart and [Forging a Heart](https://bg3.wiki/wiki/Forging_a_Heart) quests.
 
-- Talk to Aradin to start Find the Nightsong quest.
+- Talk to [Aradin](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5285943386591612&y=0.7317616616416274&zoom=13.530625373790832) to start [Find the Nightsong](https://bg3.wiki/wiki/Find_the_Nightsong) quest.
 
 *I am not sure in what relative order to complete the following quests:*
 
