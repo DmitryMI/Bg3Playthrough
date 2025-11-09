@@ -187,45 +187,46 @@ Feat: +2 INT.
 
 #### Weapon
 
-- [Unseen Menace](https://bg3.wiki/wiki/Unseen_Menace)
-- [Svartlebee's Woundseeker](https://bg3.wiki/wiki/Svartlebee%27s_Woundseeker)
-- [Larethian's Wrath](https://bg3.wiki/wiki/Larethian%27s_Wrath)
-- [Sword of Justice](https://bg3.wiki/wiki/Sword_of_Justice)
+- [Unseen Menace](https://bg3.wiki/wiki/Unseen_Menace) - *[Crèche Y'llek X: 1380 Y: -798: Sold by A'jak'nir](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.4975876567955311&y=0.8439821183072809&zoom=14.36506623208646)*
+- [Svartlebee's Woundseeker](https://bg3.wiki/wiki/Svartlebee%27s_Woundseeker) - *[Waukeen's Rest X: -66 Y: 609: Carried by Gauntlet Yeva.](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.6253300389372498&y=0.7572413884313249&zoom=14.792327788725018)*
+- [Larethian's Wrath](https://bg3.wiki/wiki/Larethian%27s_Wrath) - *[Crèche Y'llek X: 1380 Y: -798: Sold by A'jak'nir](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.4975876567955311&y=0.8439821183072809&zoom=14.36506623208646)*
+- [Sword of Justice](https://bg3.wiki/wiki/Sword_of_Justice) - *[The Risen Road X: 110 Y: 560: Carried by Anders Anders in Toll House, or rewarded by him for klling Karlach Karlach in Hunt the Devil](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5511455283213706&y=0.7389319707324233&zoom=14.79232778872502)*
 
 #### Head
 
-- **[Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy) - must-have item for the build.** Synergizes with Eldrich Strike, effectively adding INT modifier to damage from every attack, except the first one.
-- [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
+- **[Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy) - must-have item for the build.** Synergizes with Eldrich Strike, effectively adding INT modifier to damage from every attack, except the first one. *[Crèche Y'llek X: 1365 Y: -663: Carried by Ardent Jhe'rezath Ardent Jhe'rezath in the Inquisitor's Chamber.](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.5089462645780998&y=0.9114099166289975&zoom=15)*
+
+- [Haste Helm](https://bg3.wiki/wiki/Haste_Helm) - *[Blighted Village X: 29 Y: 405: Inside the Moss-Covered Chest](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5848320718914408&y=0.6691300156316231&zoom=13.322953162515844)*
 
 #### Armor
 
 - [Adamantine Splint Armour](https://bg3.wiki/wiki/Adamantine_Splint_Armour)
-- [Githyanki Half Plate](https://bg3.wiki/wiki/Githyanki_Half_Plate)
+- [Githyanki Half Plate](https://bg3.wiki/wiki/Githyanki_Half_Plate) - *worn by Lae'zel and other githyanki.*
 
 #### Gloves
 
-- [Gloves of the Growling Underdog](https://bg3.wiki/wiki/Gloves_of_the_Growling_Underdog) - counteract negative effect of *Great Weapon Master: All In​*
-- **[Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_Dexterity) - must-have for natural strength build.**
-- [Gloves of Baneful Striking](https://bg3.wiki/wiki/Gloves_of_Baneful_Striking) - deepens effect of Eldritch Strike, giving 1d4 penalty to Saving Throws against your spells.
+- [Gloves of the Growling Underdog](https://bg3.wiki/wiki/Gloves_of_the_Growling_Underdog) - counteract negative effect of *Great Weapon Master: All In​*. *[Shattered Sanctum X: 298 Y: 66: In Dror Ragzlin's Dror Ragzlin's treasure crates behind the locked iron gate]()*
+- **[Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_Dexterity) - must-have for natural strength build.** *[Crèche Y'llek X: 1380 Y: -798: Sold by A'jak'nir](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.4975876567955311&y=0.8439821183072809&zoom=14.36506623208646)*
+- [Gloves of Baneful Striking](https://bg3.wiki/wiki/Gloves_of_Baneful_Striking) - deepens effect of Eldritch Strike, giving 1d4 penalty to Saving Throws against your spells. *[Rosymorn Monastery Trail X: -43 Y: -129: Sold by Lady Esther, north-east of the Trielta Crags waypoint](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.5598226646921489&y=0.6872583153028842&zoom=15)*
 
 #### Boots
 
-- [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers) - best counter for difficult terrain.
-- [Boots of Genial Striding](https://bg3.wiki/wiki/Boots_of_Genial_Striding) - also counter difficult terrain, but not as good as the previous ones.
-- [Linebreaker Boots](https://bg3.wiki/wiki/Linebreaker_Boots)
+- [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers) - best counter for difficult terrain. *[Grymforge X: -854 Y: 780: Worn by Nere](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-1.0103913549183972&y=0.6966968189393441&zoom=13.204061939313762)*
+- [Boots of Genial Striding](https://bg3.wiki/wiki/Boots_of_Genial_Striding) - also counter difficult terrain, but not as good as the previous ones. *[Ebonlake Grotto X: 111 Y: -89: Sold by Blurg](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8448355145366122&y=0.7625255103631758&zoom=15)*
+- [Linebreaker Boots](https://bg3.wiki/wiki/Linebreaker_Boots) - *[Worg Pens X: 379 Y: -39: Worn by Beastmaster Zurk](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7289312002941131&y=0.7218310969579278&zoom=14.792327788725018)*
 
 #### Amulet
 
-- [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge) - weapon get coated in poison whenever carrier is healed.
-- [Amulet of Branding](https://bg3.wiki/wiki/Amulet_of_Branding) - imposes vulnerability on the target to Bludgeoning, Slashing or Piercing damage.
-- [Amulet of Misty Step](https://bg3.wiki/wiki/Amulet_of_Misty_Step)
+- [Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge) - weapon get coated in poison whenever carrier is healed. *Worn by Kagha*
+- [Amulet of Branding](https://bg3.wiki/wiki/Amulet_of_Branding) - imposes vulnerability on the target to Bludgeoning, Slashing or Piercing damage. *[Crèche Y'llek X: 1380 Y: -798: Carried by A'jak'nir](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.4975876567955311&y=0.8439821183072809&zoom=14.36506623208646)*
+- [Amulet of Misty Step](https://bg3.wiki/wiki/Amulet_of_Misty_Step) - *[Defiled Temple X: 386 Y: 8: Gilded chest next to the bed behind Polma in Gut's private chambers](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7271133138443417&y=0.7421422666712658&zoom=13.731077041143363) or [Myconid Colony X: 112 Y: -88: Sold by Omeluum after completing Help Omeluum Investigate the Parasite](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8447434095230051&y=0.7628110382305238&zoom=15)*
 
 #### Rings
 
-- [Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring_of_Arcane_Synergy) - a replacement for Diadem of Arcane Synergy.
+- [Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring_of_Arcane_Synergy) - a replacement for Diadem of Arcane Synergy. *[Crèche Y'llek X: 1359 Y: -831: Worn by Gish Far'aag](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.5119161628107634&y=0.8398851286899003&zoom=15)*
 - Ring of Protection
-- [Caustic Band](https://bg3.wiki/wiki/Caustic_Band)
-- [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)
+- [Caustic Band](https://bg3.wiki/wiki/Caustic_Band) - *[Ebonlake Grotto X: -55 Y: -93: Sold by Derryth Bonecloak Derryth Bonecloak in the Underdark](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8696360845704021&y=0.7594827563116269&zoom=14.057640475620422)*
+- [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring) - *[Goblin Camp X: -70 Y: 439: Worn by Crusher](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.6421850269426557&y=0.6673104076853633&zoom=14.584655577450024)*
 
 ### Act 2
 
