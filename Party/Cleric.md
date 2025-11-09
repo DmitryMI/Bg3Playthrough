@@ -192,39 +192,39 @@ Pick from priority list:
 
 #### Weapon
 
-- [Defender Flail](https://bg3.wiki/wiki/Defender_Flail)
-- [The Blood of Lathander](https://bg3.wiki/wiki/The_Blood_of_Lathander)
-- [Phalar Aluve](https://bg3.wiki/wiki/Phalar_Aluve)
-- [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness)
+- [Defender Flail](https://bg3.wiki/wiki/Defender_Flail) - *[Crèche Y'llek X: 1380 Y: -798: Sold by A'jak'nir](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.4975876567955311&y=0.8439821183072809&zoom=14.36506623208646)*
+- [The Blood of Lathander](https://bg3.wiki/wiki/The_Blood_of_Lathander) - *[Crèche Y'llek X: 1068 Y: -779: On a locked altar in the Secret Chamber](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.5947098121477836&y=0.9133765638002842&zoom=12.846357992384213)*
+- [Phalar Aluve](https://bg3.wiki/wiki/Phalar_Aluve) - *[Underdark X: 116 Y: -192: Embedded inside a rock](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8407132787008038&y=0.7192274161997574&zoom=13.338622309800115)*
+- [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness) - *[Shattered Sanctum X: 272 Y: -31: Sold by Roah Moonglow](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7751598473307411&y=0.7282751371080423&zoom=15)*
 
 ### Shield
 
 - [Adamantine Shield](https://bg3.wiki/wiki/Adamantine_Shield)
-- [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)
+- [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield) - *[The Hollow X: 177 Y: 562: Sold by Dammon Dammon in the Emerald Grove](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5210158178822439&y=0.7367672958982894&zoom=14.073309622904704)*
 
 #### Head
 
-- [Holy Lance Helm](https://bg3.wiki/wiki/Holy_Lance_Helm) - deals radiant damage on enemy miss.
-- [Haste Helm](https://bg3.wiki/wiki/Haste_Helm)
+- [Holy Lance Helm](https://bg3.wiki/wiki/Holy_Lance_Helm) - deals radiant damage on enemy miss. *[Rosymorn Monastery X: 120 Y: 35: In a painted chest, accessible from the top level](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.4940813421027599&y=0.7537486613814224&zoom=13.165700882938825)*
+- [Haste Helm](https://bg3.wiki/wiki/Haste_Helm) - *[Blighted Village X: 29 Y: 405: Inside the Moss-Covered Chest](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5848320718914408&y=0.6691300156316231&zoom=13.322953162515844)*
 
 #### Armor
 
-- [Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour) - best armor in tha game, since you deal a lot of radiant damage.
+- [Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour) - best armor in the game, since you deal a lot of radiant damage. *[Selûnite Outpost X: 176 Y: -247: In a locked and trapped opulent chest](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8172313793916715&y=0.6956614274278081&zoom=14.60032472473431)*.
 
 #### Gloves
 
-- [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider%27s_Pride) - gives melee resistance to anyone you heal. Excellent synergy with your mass heal.
-- [Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies) - if Bard does not use them.
+- [Hellrider's Pride](https://bg3.wiki/wiki/Hellrider%27s_Pride) - gives melee resistance to anyone you heal. Excellent synergy with your mass heal. *[Secluded Chamber X: -53 Y: 67: Carried by Zevlor and can be either looted from him, bought, stolen, or earned as a reward for Kill Kagha or Investigate Kagha](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5128308762203062&y=0.7340871877262174&zoom=14.60032472473431)*.
+- [Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies) - **core item, but contested by Bard**. *[Crèche Y'llek X: 1348 Y: -677: In an elegant chest in the Inquisitor's Chamber, along the southern wall of the room, on the western side](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.5153736033781229&y=0.9041226112899494&zoom=14.523404829868378)*
 
 #### Boots - pick any unused
 
 #### Amulet
 
-- [Amulet of Restoration](https://bg3.wiki/wiki/Amulet_of_Restoration) - even more mass healing.
+- [Amulet of Restoration](https://bg3.wiki/wiki/Amulet_of_Restoration) - even more mass healing. *There are two of them in the game. [Ebonlake Grotto X: -55 Y: -93: Sold by Derryth Bonecloak Derryth Bonecloak in the Underdark](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8696360845704021&y=0.7594827563116269&zoom=14.057640475620422) and The Counting House X: -85 Y: -185: In a chest titled 'Private Stash', in the eastern room down the very first flight of stairs (Act 3)*
 
 #### Rings
 
-- [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise) - gives bonus to attack rolls and saving throw to anybody who you heal. Best early-game ring for this build.
+- [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise) - gives bonus to attack rolls and saving throw to anybody who you heal. Best early-game ring for this build. *Sold by Volo or Grat the Trader.*
 
 ### Act 2
 
