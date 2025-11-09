@@ -252,49 +252,49 @@ Pick any:
 
 #### Weapon
 
-- [Melf's First Staff](https://bg3.wiki/wiki/Melf%27s_First_Staff) - +1 spell save DC and offensive Level 2 spell.
-- [The Spellsparkler](https://bg3.wiki/wiki/The_Spellsparkler) - additional spell damage
+- [Melf's First Staff](https://bg3.wiki/wiki/Melf%27s_First_Staff) - +1 spell save DC and offensive Level 2 spell. *[Ebonlake Grotto X: 111 Y: -89: Sold by Blurg](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8448355145366122&y=0.7625255103631758&zoom=15)*
+- [The Spellsparkler](https://bg3.wiki/wiki/The_Spellsparkler) - additional spell damage. *[Waukeen's Rest X: -63 Y: 600: Reward for rescuing Counsellor Florrick from the burning inn during the quest Rescue the Grand Duke.](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.6245046280803876&y=0.755471880185766&zoom=15)*
 
 - Hand Crossbow +1 - equip two for double ranged attack.
 
-- [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness) - +1 initiative
+- [Bow of Awareness](https://bg3.wiki/wiki/Bow_of_Awareness) - +1 initiative. *[Shattered Sanctum X: 272 Y: -31: Sold by Roah Moonglow](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7751598473307411&y=0.7282751371080423&zoom=15)*
 
 #### Head
 
-- [The Shadespell Circlet](https://bg3.wiki/wiki/The_Shadespell_Circlet) - +1 Spell Save DC if obscured
-- [Cap of Curing](https://bg3.wiki/wiki/Cap_of_Curing) - buffs Bardic Inspiration by healing affected allies
+- [The Shadespell Circlet](https://bg3.wiki/wiki/The_Shadespell_Circlet) - +1 Spell Save DC if obscured. [Myconid Colony X: 112 Y: -88: Sold by Omeluum after completing Help Omeluum Investigate the Parasite](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8447434095230051&y=0.7628110382305238&zoom=15)*
+- [Cap of Curing](https://bg3.wiki/wiki/Cap_of_Curing) - buffs Bardic Inspiration by healing affected allies. *[Sacred Pool X: 289 Y: 488: In a locked gilded chest behind a pillar near to where Alfira is composing her song in the Emerald Grove](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.4746548658909546&y=0.7074217854478633&zoom=14.472984898170404)*
 
 #### Armor
 
-- [The Protecty Sparkswall](https://bg3.wiki/wiki/The_Protecty_Sparkswall) - +1 Spell Save DC
+- [The Protecty Sparkswall](https://bg3.wiki/wiki/The_Protecty_Sparkswall) - +1 Spell Save DC. *[Grymforge X: -645 Y: 360: In a gilded chest at the end of the trapped bridge](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-1.0157913362433817&y=0.7192771297284679&zoom=15)*
 - [Infernal Robe](https://bg3.wiki/wiki/Infernal_Robe) - *killing Karlach required*
-- [Blazer of Benevolence](https://bg3.wiki/wiki/Blazer_of_Benevolence) - gain temporary hit points when ally is affected by your Bardic Inspiration
+- [Blazer of Benevolence](https://bg3.wiki/wiki/Blazer_of_Benevolence) - gain temporary hit points when ally is affected by your Bardic Inspiration. *Campsite (Act One): Reward for rescuing Volo from the Goblin Camp during the quest Rescue Volo*
 
 #### Gloves
 
-- [Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies) - must-have
-- [Wondrous Gloves](https://bg3.wiki/wiki/Wondrous_Gloves) - +1 Bardic Inspiration charge
-- [Bracers of Defence](https://bg3.wiki/wiki/Bracers_of_Defence) - +2 AC
-- [Gloves of Missile Snaring](https://bg3.wiki/wiki/Gloves_of_Missile_Snaring) - reduce enemy ranged damage.
+- [Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies) - may be better suited for Cleric. *[Crèche Y'llek X: 1348 Y: -677: In an elegant chest in the Inquisitor's Chamber, along the southern wall of the room, on the western side](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.5153736033781229&y=0.9041226112899494&zoom=14.523404829868378)*
+- [Wondrous Gloves](https://bg3.wiki/wiki/Wondrous_Gloves) - +1 Bardic Inspiration charge. *[Grymforge X: -691 Y: 374: Carried by a Mimic Mimic near the harper cache](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-1.0355525914963266&y=0.7262502024436657&zoom=13.849968264345447)*
+- [Bracers of Defence](https://bg3.wiki/wiki/Bracers_of_Defence) - +2 AC if not wearing armor or shield. *[Apothecary's Cellar X: -656 Y: -370: In a gilded chest in the secret cellar area of the Apothecary, beneath the Blighted Village](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.6899951577938168&y=0.628264505705701&zoom=14.903998468004652)*
+- [Gloves of Missile Snaring](https://bg3.wiki/wiki/Gloves_of_Missile_Snaring) - reduce enemy ranged damage. *Sold by Arron*.
 
 #### Boots
 
-- [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour) - best in the game, apply Reverbation for each apply condition on the enemy
+- [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour) - best in the game, apply Reverbation for each applied condition on the enemy. May be better suited for Cleric. [Myconid Colony X: 112 Y: -88: Sold by Omeluum after completing Help Omeluum Investigate the Parasite](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8447434095230051&y=0.7628110382305238&zoom=15)*
 
-- [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers) - counter difficult terrain.
+- [Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers) - counter difficult terrain. *[Grymforge X: -854 Y: 780: Worn by Nere](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-1.0103913549183972&y=0.6966968189393441&zoom=13.204061939313762)*
 
 #### Amulet
 
-- [Amulet of Branding](https://bg3.wiki/wiki/Amulet_of_Branding) - useful bonus action spell
-- [Pearl of Power Amulet](https://bg3.wiki/wiki/Pearl_of_Power_Amulet) - restores Level 3 spell slot
-- [Amulet of Misty Step](https://bg3.wiki/wiki/Amulet_of_Misty_Step) - mobility spell.
-- [Silver Pendant](https://bg3.wiki/wiki/Silver_Pendant) - gives Guidance spell (+1d4 to Ability Checks)
+- [Amulet of Branding](https://bg3.wiki/wiki/Amulet_of_Branding) - useful bonus action spell. *[Crèche Y'llek X: 1380 Y: -798: Carried by A'jak'nir](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.4975876567955311&y=0.8439821183072809&zoom=14.36506623208646)*
+- [Pearl of Power Amulet](https://bg3.wiki/wiki/Pearl_of_Power_Amulet) - restores Level 3 spell slot. [Myconid Colony X: 112 Y: -88: Sold by Omeluum after completing Help Omeluum Investigate the Parasite](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8447434095230051&y=0.7628110382305238&zoom=15)*
+- [Amulet of Misty Step](https://bg3.wiki/wiki/Amulet_of_Misty_Step) - mobility spell. *[Defiled Temple X: 386 Y: 8: Gilded chest next to the bed behind Polma in Gut's private chambers](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7271133138443417&y=0.7421422666712658&zoom=13.731077041143363) or [Myconid Colony X: 112 Y: -88: Sold by Omeluum after completing Help Omeluum Investigate the Parasite](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8447434095230051&y=0.7628110382305238&zoom=15)*
+- [Silver Pendant](https://bg3.wiki/wiki/Silver_Pendant) - gives Guidance spell (+1d4 to Ability Checks). *[Ravaged Beach X: 152 Y: 366: On a skeleton on the Harper Outpost southwest of the Druid Grove](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5336738009974056&y=0.6529747112725204&zoom=13.753966732350094)*
 
 #### Rings
 
-- Ring of Protection
-- [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise) - target healed by you gains +1d4 bonus to attack rolls and saving throws
-- [Ring of Mind-Shielding](https://bg3.wiki/wiki/Ring_of_Mind-Shielding) - ADV against Charmed effect.
+- [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection) - *[Tiefling Hideout X: 84 Y: 73: Rewarded by Mol for completing the quest Steal the Sacred Idol in the Emerald Grove](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.3990902556033973&y=0.7850669389977725&zoom=14.280981834179693)*
+- [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise) - target healed by you gains +1d4 bonus to attack rolls and saving throws. Better leave it for Cleric. *Sold by Volo or Grat the Trader.*
+- [Ring of Mind-Shielding](https://bg3.wiki/wiki/Ring_of_Mind-Shielding) - ADV against Charmed effect. *[Myconid Colony X: 112 Y: -88: Offered by Omeluum after completing Help Omeluum Investigate the Parasite](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8447434095230051&y=0.7628110382305238&zoom=15)*
 
 ### Act 2
 
