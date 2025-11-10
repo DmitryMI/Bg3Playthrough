@@ -68,14 +68,30 @@ This document lists all quests and locations in chronological order of completio
 
 - ~~Talk to Wyll to initiate [The Blade of Frontiers](https://www.ign.com/wikis/baldurs-gate-3/Wyll:_The_Blade_of_Frontiers)~~
 
+- Find [Cap of Curing](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.47354872402240744&y=0.7053285442852086&zoom=13.530625373790825).
+
+- Buy The Whispering Promise from Volod [here](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.4858710092909462&y=0.7150967938075325&zoom=15).
+
 - Find Karlach to initiate The Hellion's Heart and [Forging a Heart](https://bg3.wiki/wiki/Forging_a_Heart) quests.
+
+- [Save Nadira](https://bg3.wiki/wiki/Nadira) ([location](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.49280411864634743&y=0.6883252342582296&zoom=14.265312686895415)) - enter combat mode **before** approaching Nadira. Kill the enemy. Skillchecks needed to get the Soul Coin.
 
 - Talk to [Aradin](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5285943386591612&y=0.7317616616416274&zoom=13.530625373790832) to start [Find the Nightsong](https://bg3.wiki/wiki/Find_the_Nightsong) quest.
 
-*I am not sure in what relative order to complete the following quests:*
-
 - [Investigate Kagha (Druid Sanctuary)](./Investigate%20Kagha%20(Druid%20Sanctuary).md)
 
-- [Defeat the Goblins]()
+#### Blighted Village
+
+- [Finish the Masterwork Weapon (start)](https://bg3.wiki/wiki/Finish_the_Masterwork_Weapon)
+
+- [Rescue the Gnome](https://bg3.wiki/wiki/Rescue_the_Gnome) - 280 XP for making Fezzerk and his group to leave, going turn based mode to attack them, defeating the two goblin devouts and Fezzerk last.
+
+- [Search the Cellar](https://bg3.wiki/wiki/Search_the_Cellar)
+
+#### Goblin Camp
+
+- [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins). **Do NOT kill them all yet!** There are some traders we need to stay alive. Use Sazza to maintain neutrality of goblins. First: **stealthly** kill [Priestess Gut](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7659047642782468&y=0.7325860528423931&zoom=15). Second: deal with [Scrying Eye](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7552248413617235&y=0.7471095384024977&zoom=15). Third: **knock-out (NOT KILL)** Minthara. Forth: kill [Dror Ragzlin](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7660308312506743&y=0.7588503659749648&zoom=15) **only after you finished all your business in Goblin Camp**, killing him will unavoidably turn everyone hosile.
+
+- [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin)
 
 ### Main Quests
