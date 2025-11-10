@@ -85,5 +85,3 @@
 ## Synergies
 
 ## Tactics
-
-Always use Blooming Blade every turn.

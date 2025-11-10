@@ -23,7 +23,7 @@ Cannot be put to sleep.
 
 **Eldritch Knight gains the same Cantrips on Level 3.**
 
-[Blooming Blade](https://bg3.wiki/wiki/Booming_Blade) is a suggested pick for Eldritch Knight in level 3. [Player cannot respec starting cantrip with Withers](https://www.reddit.com/r/BaldursGate3/comments/1je7k1v/comment/mig8so4/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). Since Blooming Blade is essential for the build, it makes sense to pick it as Race Cantrip. The respec-able cantrip on Level 3 can be something else.
+[Booming Blade](https://bg3.wiki/wiki/Booming_Blade) is a suggested pick for Eldritch Knight in level 3. [Player cannot respec starting cantrip with Withers](https://www.reddit.com/r/BaldursGate3/comments/1je7k1v/comment/mig8so4/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). Since Booming Blade is essential for the build, it makes sense to pick it as Race Cantrip. The respec-able cantrip on Level 3 can be something else.
 
 The build recommends [Friends](https://bg3.wiki/wiki/Friends), but this playthought already assumes having Bard in the party, who will probably also have Friends, so picking it for the Fighter will be redundant.
 
@@ -83,7 +83,7 @@ Features: [Weapon Bond](https://bg3.wiki/wiki/Weapon_Bond)
 Select 2 cantrips.
 
 List of priorities cantrips (from highest prio to lowest):
-- [Blooming Blade](https://bg3.wiki/wiki/Booming_Blade) - Weapon Damage + 1d8 Thunder
+- [Booming Blade](https://bg3.wiki/wiki/Booming_Blade) - Weapon Damage + 1d8 Thunder
 - [Blade Ward](https://bg3.wiki/wiki/Blade_Ward) - 2 turns resistance agains Bludgeoning, Piercing and Slashing damage
 - [Bone Chill](https://bg3.wiki/wiki/Bone_Chill) - ranged 1d8 Necrotic attack, prevents target from healing for 1 turn.
 
@@ -351,4 +351,4 @@ Feat: +2 INT.
 
 ## Tactics
 
-Always use Blooming Blade every turn.
+Always use Booming Blade every turn.
