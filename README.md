@@ -102,7 +102,7 @@ This document lists all quests and locations in chronological order of completio
 
 - Find [Cap of Curing](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.47354872402240744&y=0.7053285442852086&zoom=13.530625373790825).
 
-- Buy The Whispering Promise from Volod [here](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.4858710092909462&y=0.7150967938075325&zoom=15).
+- Buy The Whispering Promise from Volo [here](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.4858710092909462&y=0.7150967938075325&zoom=15).
 
 - Find Karlach to initiate The Hellion's Heart and [Forging a Heart](https://bg3.wiki/wiki/Forging_a_Heart) quests.
 
@@ -110,15 +110,27 @@ This document lists all quests and locations in chronological order of completio
 
 - Talk to [Aradin](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5285943386591612&y=0.7317616616416274&zoom=13.530625373790832) to start [Find the Nightsong](https://bg3.wiki/wiki/Find_the_Nightsong) quest.
 
-- [Investigate Kagha (Druid Sanctuary)](./Investigate%20Kagha%20(Druid%20Sanctuary).md)
-
 #### Blighted Village
 
-- [Finish the Masterwork Weapon (start)](https://bg3.wiki/wiki/Finish_the_Masterwork_Weapon)
+- [Finish the Masterwork Weapon (start)](https://bg3.wiki/wiki/Finish_the_Masterwork_Weapon) - **complete before fighting the Hag.** Find [Faded Blueprints](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=293152). Get [Sussur Tree Bark](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=57873). Use [blacksmith's bellows](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=315978). Combine Sussur Tree Bark with the furnace. Use greatsword in the active furnace to get [Sussur Greatsword](https://bg3.wiki/wiki/Sussur_Greatsword). Hag's CON modifier is +3, Silence DC is 12. *Silence chance on a hit will be around 45%.*.
 
 - [Rescue the Gnome](https://bg3.wiki/wiki/Rescue_the_Gnome) - 280 XP for making Fezzerk and his group to leave, going turn based mode to attack them, defeating the two goblin devouts and Fezzerk last.
 
 - [Search the Cellar](https://bg3.wiki/wiki/Search_the_Cellar)
+
+- Kill or recruit [Lump and his dudes](https://bg3.wiki/wiki/Lump) [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=57676). Best approach is to recruit them, call for one fight during Act 1, refuse to pay and kill.
+
+#### Sunlit Wetlands
+
+> Reaching Sunlit Wetlands moves Auntie Ethel from Emerald Grove!
+
+- Deal with [Gandrel](https://bg3.wiki/wiki/Gandrel) [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=57622) - Astarion's quest.
+
+- Defeat [Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel/Combat).
+
+- Speak with Animals on [Addled Frog](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=293898) after Hag is defeated.
+
+- [Investigate Kagha (Druid Sanctuary)](./Investigate%20Kagha%20(Druid%20Sanctuary).md). After completing Druid Sanctuary part, go back to Emerald Grove to finish the quest.
 
 #### Goblin Camp
 
