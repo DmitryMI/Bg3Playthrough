@@ -120,6 +120,14 @@ This document lists all quests and locations in chronological order of completio
 
 - Kill or recruit [Lump and his dudes](https://bg3.wiki/wiki/Lump) [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=57676). Best approach is to recruit them, call for one fight during Act 1, refuse to pay and kill.
 
+#### Whispering Depths
+
+- Find [Spiderstep Boots](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=58513)
+- Find [Spurred Band](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=293895)
+- Find [Poisoner's Robe](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=296988)
+- Defeat [Spider Matriarch](https://bg3.wiki/wiki/Phase_Spider_Matriarch)
+- Find [Dark Amethyst](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=294370)
+
 #### Sunlit Wetlands
 
 > Reaching Sunlit Wetlands moves Auntie Ethel from Emerald Grove!
