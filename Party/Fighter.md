@@ -41,7 +41,7 @@ Background: Soldier
 
 - 15+2 STR
 
-- 14 DEX (main)
+- 14 DEX
 
 - 10 CON
 
@@ -55,7 +55,7 @@ Background: Soldier
 
 > Use [Elixir of Hill Giant Strength](https://bg3.wiki/wiki/Elixir_of_Hill_Giant_Strength) after every long rest to get fixed 21 STR. I consider this too abusive and not matching Callahan role-play. However, on Honour mode this may become unavoidable...
 
-- 8 STR (main)
+- 8 STR
 - 15+1 DEX
 - 14 CON
 - 15+2 INT
