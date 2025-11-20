@@ -74,7 +74,7 @@ This document lists all quests and locations in chronological order of completio
 
 - ~~Talk to [Okta](https://bg3.wiki/wiki/Okta) [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5134011433060834&y=0.7332661440047445&zoom=14.265312686895411).~~
 
-- Talk to [Raphael](https://bg3.wiki/wiki/Raphael) *where?*
+- ~~Talk to [Raphael](https://bg3.wiki/wiki/Raphael)~~
 
 - ~~Use Lesser Restoration on [Pandirna](https://bg3.wiki/wiki/Pandirna) [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5066318134278163&y=0.743048873441893&zoom=14.265312686895411). **We can try to loot the storage that she is guarding, but with caution.**~~
 
@@ -122,32 +122,48 @@ This document lists all quests and locations in chronological order of completio
 
 #### Whispering Depths
 
-- Find [Spiderstep Boots](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=58513)
-- Find [Spurred Band](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=293895)
-- Find [Poisoner's Robe](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=296988)
-- Defeat [Spider Matriarch](https://bg3.wiki/wiki/Phase_Spider_Matriarch)
-- Find [Dark Amethyst](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=294370)
+- ~~Find [Spiderstep Boots](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=58513)~~
+- ~~Find [Spurred Band](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=293895)~~
+- ~~Find [Poisoner's Robe](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=296988)~~
+- ~~Defeat [Spider Matriarch](https://bg3.wiki/wiki/Phase_Spider_Matriarch)~~
+- ~~Find [Dark Amethyst](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=294370)~~
+
+#### [Waukeen's Rest](https://bg3.wiki/wiki/Waukeen%27s_Rest)
+
+- Take Wyll into the party to get [The Grand Duke quest](https://bg3.wiki/wiki/The_Grand_Duke)
+- Steal [Gauntlet Yeva's](https://bg3.wiki/wiki/Yeva) sword using Command - Drop Weapon.
+- Cleric can pray with [Ephren](https://bg3.wiki/wiki/Ephren) to get inspiration.
+- Help breaking the door (use Callahan for STR or Bard to Performance)
+- [Rescue the Trapped Man](https://bg3.wiki/wiki/Rescue_the_Trapped_Man) [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=57635)
+- Save [Counsellor Florrick (location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=57634) - **time-sensitive**. Follow Yeva's orders to get inspiration for Callahan.
+- Deal with [Frightened Ox](https://bg3.wiki/wiki/Frightened_Ox) [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=302177)
+- Kill [Baretha](https://bg3.wiki/wiki/Baretha) and her squad [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=57638).
+- Find entrance to [Zhentarim Hideout](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=57636)
+
+#### [Zhentarim Basement](https://bg3.wiki/wiki/Zhentarim_Basement)
+
+- Pass [Zarys'](https://bg3.wiki/wiki/Zarys) skillchecks
+- Save [Oskar Fevras](https://bg3.wiki/wiki/Oskar_Fevras). Use Bard and Persuation in dialogue with Brem.
+- Since we already failed [Find the Missing Shipment](https://bg3.wiki/wiki/Find_the_Missing_Shipment) quest, there is nothing stopping us from killing them all. However, this line in wiki: "*If the party informs Zarys of Rugan and Olly's fate, but does not reveal that they recovered the shipment, Brem opens his special stock*" suggests that we still can get Titanstring Bow from Brem.
 
 #### Sunlit Wetlands
 
 > Reaching Sunlit Wetlands moves Auntie Ethel from Emerald Grove!
 
 - Deal with [Gandrel](https://bg3.wiki/wiki/Gandrel) [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=57622) - Astarion's quest.
-
 - Defeat [Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel/Combat).
-
 - Speak with Animals on [Addled Frog](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=293898) after Hag is defeated.
-
 - [Investigate Kagha (Druid Sanctuary)](./Investigate%20Kagha%20(Druid%20Sanctuary).md). After completing Druid Sanctuary part, go back to Emerald Grove to finish the quest.
 
 #### Goblin Camp
 
+- [Rescue Volo](https://bg3.wiki/wiki/Rescue_Volo) [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=58249)
+- Help [Liam](https://bg3.wiki/wiki/Liam) [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=57138)
+- Free/Kill [Brakkal](https://bg3.wiki/wiki/Brakkal) [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=296982)
+- Get buffs from [Abdirak](https://bg3.wiki/wiki/Abdirak) [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=294183)
 - [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins). **Do NOT kill them all yet!** There are some traders we need to stay alive. Use Sazza to maintain neutrality of goblins. First: **stealthly** kill [Priestess Gut](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7659047642782468&y=0.7325860528423931&zoom=15). Second: deal with [Scrying Eye](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7552248413617235&y=0.7471095384024977&zoom=15). Third: **knock-out (NOT KILL)** Minthara [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=57139). Forth: kill [Dror Ragzlin](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7660308312506743&y=0.7588503659749648&zoom=15) **only after you finished all your business in Goblin Camp**, killing him will unavoidably turn everyone hosile.
-
 - [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin)
-
 - Speak with Animals on [Ormn](https://bg3.wiki/wiki/Ormn) [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.4828842478038382&y=0.7017269576403891&zoom=14.057640475620431) **after saving Halsin**.
-
 - Talk to [Rath](https://bg3.wiki/wiki/Rath) [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.3530459085437485&y=0.7275537680111768&zoom=14.265312686895411) to get Rescue Halsin quest rewards.
 
 ### Main Quests
