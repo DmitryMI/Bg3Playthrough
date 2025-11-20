@@ -114,11 +114,11 @@ This document lists all quests and locations in chronological order of completio
 
 - [Finish the Masterwork Weapon (start)](https://bg3.wiki/wiki/Finish_the_Masterwork_Weapon) - **complete before fighting the Hag.** Find [Faded Blueprints](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=293152). Get [Sussur Tree Bark](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=57873). Use [blacksmith's bellows](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=315978). Combine Sussur Tree Bark with the furnace. Use greatsword in the active furnace to get [Sussur Greatsword](https://bg3.wiki/wiki/Sussur_Greatsword). Hag's CON modifier is +3, Silence DC is 12. *Silence chance on a hit will be around 45%.*.
 
-- [Rescue the Gnome](https://bg3.wiki/wiki/Rescue_the_Gnome) - 280 XP for making Fezzerk and his group to leave, going turn based mode to attack them, defeating the two goblin devouts and Fezzerk last.
+- ~~[Rescue the Gnome](https://bg3.wiki/wiki/Rescue_the_Gnome) - 280 XP for making Fezzerk and his group to leave, going turn based mode to attack them, defeating the two goblin devouts and Fezzerk last.~~
 
 - ~~[Search the Cellar](https://bg3.wiki/wiki/Search_the_Cellar)~~
 
-- Kill or recruit [Lump and his dudes](https://bg3.wiki/wiki/Lump) [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=57676). Best approach is to recruit them, call for one fight during Act 1, refuse to pay and kill.
+- ~~Kill or recruit [Lump and his dudes](https://bg3.wiki/wiki/Lump) [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=57676). Best approach is to recruit them, call for one fight during Act 1, refuse to pay and kill.~~
 
 #### Whispering Depths
 
@@ -142,7 +142,7 @@ This document lists all quests and locations in chronological order of completio
 
 #### Goblin Camp
 
-- [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins). **Do NOT kill them all yet!** There are some traders we need to stay alive. Use Sazza to maintain neutrality of goblins. First: **stealthly** kill [Priestess Gut](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7659047642782468&y=0.7325860528423931&zoom=15). Second: deal with [Scrying Eye](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7552248413617235&y=0.7471095384024977&zoom=15). Third: **knock-out (NOT KILL)** Minthara. Forth: kill [Dror Ragzlin](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7660308312506743&y=0.7588503659749648&zoom=15) **only after you finished all your business in Goblin Camp**, killing him will unavoidably turn everyone hosile.
+- [Defeat the Goblins](https://bg3.wiki/wiki/Defeat_the_Goblins). **Do NOT kill them all yet!** There are some traders we need to stay alive. Use Sazza to maintain neutrality of goblins. First: **stealthly** kill [Priestess Gut](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7659047642782468&y=0.7325860528423931&zoom=15). Second: deal with [Scrying Eye](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7552248413617235&y=0.7471095384024977&zoom=15). Third: **knock-out (NOT KILL)** Minthara [(location)](https://mapgenie.io/baldurs-gate-3/maps/wilderness?locationIds=57139). Forth: kill [Dror Ragzlin](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.7660308312506743&y=0.7588503659749648&zoom=15) **only after you finished all your business in Goblin Camp**, killing him will unavoidably turn everyone hosile.
 
 - [Rescue the Druid Halsin](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin)
 
