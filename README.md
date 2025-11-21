@@ -40,9 +40,9 @@ This document lists all quests and locations in chronological order of completio
 >
 > Major Loot: The Watcher's Guide (spear), The Amulet of Lost Voices, Shovel
 
-1. [Free Lae'zel (+Gale, +Astarion, +Shovel)](./Free%20Lae'zel.md)
+1. ~~[Free Lae'zel (+Gale, +Astarion, +Shovel)](./Free%20Lae'zel.md)~~
 
-2. [Explore the Ruins](./Explore%20the%20Ruins.md)
+2. ~~[Explore the Ruins](./Explore%20the%20Ruins.md)~~
 
 #### Druid Grove
 
