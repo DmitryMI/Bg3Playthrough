@@ -220,7 +220,7 @@ Pick from priority list:
 
 #### Amulet
 
-- [Amulet of Restoration](https://bg3.wiki/wiki/Amulet_of_Restoration) - even more mass healing. *There are two of them in the game. [Ebonlake Grotto X: -55 Y: -93: Sold by Derryth Bonecloak Derryth Bonecloak in the Underdark](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8696360845704021&y=0.7594827563116269&zoom=14.057640475620422) and The Counting House X: -85 Y: -185: In a chest titled 'Private Stash', in the eastern room down the very first flight of stairs (Act 3)*
+- [Amulet of Restoration](https://bg3.wiki/wiki/Amulet_of_Restoration) - even more mass healing. *There are two of them in the game. [Ebonlake Grotto X: -55 Y: -93: Sold by Derryth Bonecloak in the Underdark](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8696360845704021&y=0.7594827563116269&zoom=14.057640475620422) and The Counting House X: -85 Y: -185: In a chest titled 'Private Stash', in the eastern room down the very first flight of stairs (Act 3)*
 
 #### Rings
 

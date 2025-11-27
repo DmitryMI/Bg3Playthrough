@@ -225,7 +225,7 @@ Feat: +2 INT.
 
 - [Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring_of_Arcane_Synergy) - a replacement for Diadem of Arcane Synergy. *[Crèche Y'llek X: 1359 Y: -831: Worn by Gish Far'aag](https://mapgenie.io/baldurs-gate-3/maps/shadow-cursed-lands?x=-0.5119161628107634&y=0.8398851286899003&zoom=15)*
 - Ring of Protection
-- [Caustic Band](https://bg3.wiki/wiki/Caustic_Band) - *[Ebonlake Grotto X: -55 Y: -93: Sold by Derryth Bonecloak Derryth Bonecloak in the Underdark](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8696360845704021&y=0.7594827563116269&zoom=14.057640475620422)*
+- [Caustic Band](https://bg3.wiki/wiki/Caustic_Band) - *[Ebonlake Grotto X: -55 Y: -93: Sold by Derryth Bonecloak in the Underdark](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.8696360845704021&y=0.7594827563116269&zoom=14.057640475620422)*
 - [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring) - *[Goblin Camp X: -70 Y: 439: Worn by Crusher](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.6421850269426557&y=0.6673104076853633&zoom=14.584655577450024)*
 
 ### Act 2
