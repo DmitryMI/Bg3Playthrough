@@ -200,7 +200,7 @@ Pick from priority list:
 ### Shield
 
 - [Adamantine Shield](https://bg3.wiki/wiki/Adamantine_Shield)
-- [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield) - *[The Hollow X: 177 Y: 562: Sold by Dammon Dammon in the Emerald Grove](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5210158178822439&y=0.7367672958982894&zoom=14.073309622904704)*
+- [Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield) - *[The Hollow X: 177 Y: 562: Sold by Dammon in the Emerald Grove](https://mapgenie.io/baldurs-gate-3/maps/wilderness?x=-0.5210158178822439&y=0.7367672958982894&zoom=14.073309622904704)*
 
 #### Head
 
