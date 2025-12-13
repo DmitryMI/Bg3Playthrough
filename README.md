@@ -202,7 +202,12 @@ This document lists all quests and locations in chronological order of completio
 - *Gnomes?*
 
 ### [Grand Mausoleum](https://bg3.wiki/wiki/Grand_Mausoleum) and [Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar)
-- Find the Nightsong in [Shadowfell](https://bg3.wiki/wiki/Shadowfell). **Point of no return! Do this as later as possible.**
+
+- TODO
+- Pass three Trials of Shar
+- Deal with [Yurgir](https://bg3.wiki/wiki/Yurgir)
+- Find [Spear of Night](https://bg3.wiki/wiki/Spear_of_Night)
+- Find the Nightsong in [Shadowfell](https://bg3.wiki/wiki/Shadowfell). **Point of no return! Do this as late as possible.**
 - Confront Ketheric Thorm at Moonrise Towers (first fight)
 - Recruit Jaheira
 
